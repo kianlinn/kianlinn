@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kianlinn.
 - 👀 I’m interested in data.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning python3.
 - 🍲 I'm a foodie.
 
 <!---
